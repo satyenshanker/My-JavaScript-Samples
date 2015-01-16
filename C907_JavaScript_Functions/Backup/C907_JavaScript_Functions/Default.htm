@@ -1,0 +1,82 @@
+﻿<!DOCTYPE>
+<html>
+<head>
+    <title>7.JavaScript Functions</title>
+    <script type="text/javascript">
+
+        // You can call funciton from here
+        myNewFunction();
+        
+        // Simple function
+        function myNewFunction() {
+            alert("How are you");
+        }
+
+        // Function with arguement
+        function myFunWithArgs(value) {
+            alert("How are you Mr." + value);
+        }
+
+        // Function with arguements
+        function myFunWithReturn(value1, value2) {
+            alert(myAdder(value1, value2));
+        }
+
+        // Function with arguement and return value
+        function myAdder(value1, value2) {
+            return value1 + value2;
+        }
+
+
+        // Function undeclared arguement 
+        function myAdderCool() {
+            var tempValue = 0;
+
+            // Note eventhough function does not include the arguement list
+            // we can access them within the function using the key workd
+            // arguments
+            for (var i = 0; i < arguments.length; i++) {
+                tempValue = tempValue + arguments[i];
+            }
+            alert(tempValue);
+        }
+
+        // Assign function as variable
+        var funVar = function () {
+            return arguments[0] + arguments[1];
+        }
+
+        // call function using the function variable
+        var sum = funVar(1, 2);
+        alert(sum);
+
+        // Annonymous function (used by JQuery all the time)
+        var myAnonymResult = (function () {
+            return arguments[0] + arguments[1];
+        })(2, 3);
+
+        // calling anonymous function 
+        alert(myAnonymResult);
+
+    </script>
+</head>
+<body>
+    <h1>7.JavaScript Functions</h1>
+    Simple Function 
+    <input type="submit" value="Click me" onclick="myNewFunction()" />
+
+    <br />
+    Function with arguement
+    <input type="submit" value="Click me" onclick="myFunWithArgs('xxx')" />
+
+    <br />
+    Function with return value
+    <input type="submit" value="Click me" onclick="myFunWithReturn(3,4)" />
+
+    <br />
+    Function with undeclared arguments
+    <input type="submit" value="Click me" onclick="myAdderCool(1,2,3,4)" />
+
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿/* Applying properties to all H3 */
+h3
+{
+    color:blue;
+    font-style:italic;
+    text-decoration:underline;
+}
+
+/* Applying properties to body tag */
+body {
+    background-color:yellow;
+}
+
+/* Applying properties by element ID 
+   Note: You can only have multiple elements for same class*/
+.myParaClass
+{
+    color:red;
+}
+
+/* Applying properties by class name 
+   Note: You can only have one ID per page
+         IDs are typically uses for divisions <div> tab*/
+#myExamplePara
+{
+    color:brown;
+}

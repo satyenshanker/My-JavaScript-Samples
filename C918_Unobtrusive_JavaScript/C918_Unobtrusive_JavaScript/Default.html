@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+    <title>18. Unobtrusive JavaScript</title>
+    <!-- Referece to minified (compresed) version of jQuery -->
+    <!-- This CDN is hosted by Microsoft -->
+    <script type='text/javascript' src='http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.0.js'></script>
+
+    <!-- Reference to external Java script file -->
+    <script type='text/javascript' src='scripts/myScript.js'></script>
+
+    <!-- Reference to external style sheet file myStyleSheet.css -->
+    <link rel='stylesheet' type='text/css' href='Scripts/myStyleSheet.css' />
+</head>
+
+<body>
+    <h1 id='title'>18. Unobtrusive JavaScript</h1>
+
+    <h2>Examples</h2>
+
+    <h3>1. Separation of Behavior from Markup (JS shoudl be in seperate file)</h3>
+    
+    <div>
+        <h3>2. Namespace pollutions (Application Variables)</h3>
+        ........ Horrible way of creating variable that is require by multiple function in your application
+        <input type='submit' value='Example 1' onclick='callExample1()' />
+        <br />
+        ........ Good way of creating variable to be used by multiple function in your application
+        <input type='submit' value='Example 2' onclick='callExample2()' />
+
+        <br />
+        ........ Also create objects as child objects which are required by multiple function in your application
+        <input type='submit' value='Example 3' onclick='callExample3()' />
+    </div>
+    
+    <div>
+        <h3>3. Degrading Gracefully (Content management)</h3>
+        ........ Wrong way of implimenting dynamic content<br />
+        <img src='Images/Plus.jpg' width='28' height='27' id='clickMeWrong' />Click me to see the paragraph
+        <p id='main'>
+        </p>
+
+        ........ A better way of showing dynamic content is as follows<br />
+
+        <p id='dynamicImage'>
+        </p>
+        
+
+        <p id='message'>
+            The dynamic content should be include int content (HTML page). <br />
+            This ensure the message is displayed even if JS is turned off on the browswer
+        </p>
+
+    </div>
+
+
+</body>
+</html>

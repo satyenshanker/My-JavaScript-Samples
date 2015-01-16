@@ -1,0 +1,6 @@
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C921_Series_Wrap_Up\C921_Series_Wrap_Up\bin\C921_Series_Wrap_Up.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C921_Series_Wrap_Up\C921_Series_Wrap_Up\bin\C921_Series_Wrap_Up.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C921_Series_Wrap_Up\C921_Series_Wrap_Up\bin\C921_Series_Wrap_Up.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C921_Series_Wrap_Up\C921_Series_Wrap_Up\obj\Debug\C921_Series_Wrap_Up.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C921_Series_Wrap_Up\C921_Series_Wrap_Up\obj\Debug\C921_Series_Wrap_Up.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C921_Series_Wrap_Up\C921_Series_Wrap_Up\obj\Debug\C921_Series_Wrap_Up.pdb

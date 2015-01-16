@@ -1,0 +1,6 @@
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C920_Fundamentals_of_JS_Closures\C920_Fundamentals_of_JS_Closures\bin\C920_Fundamentals_of_JS_Closures.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C920_Fundamentals_of_JS_Closures\C920_Fundamentals_of_JS_Closures\bin\C920_Fundamentals_of_JS_Closures.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C920_Fundamentals_of_JS_Closures\C920_Fundamentals_of_JS_Closures\bin\C920_Fundamentals_of_JS_Closures.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C920_Fundamentals_of_JS_Closures\C920_Fundamentals_of_JS_Closures\obj\Debug\C920_Fundamentals_of_JS_Closures.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C920_Fundamentals_of_JS_Closures\C920_Fundamentals_of_JS_Closures\obj\Debug\C920_Fundamentals_of_JS_Closures.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C920_Fundamentals_of_JS_Closures\C920_Fundamentals_of_JS_Closures\obj\Debug\C920_Fundamentals_of_JS_Closures.pdb

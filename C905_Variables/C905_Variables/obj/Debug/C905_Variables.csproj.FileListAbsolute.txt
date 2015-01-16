@@ -1,0 +1,16 @@
+Y:\Data\_Java Script\Samples\C905_Variables\C905_Variables\bin\C905_Variables.dll
+Y:\Data\_Java Script\Samples\C905_Variables\C905_Variables\bin\C905_Variables.pdb
+Y:\Data\_Java Script\Samples\C905_Variables\C905_Variables\obj\Debug\ResolveAssemblyReference.cache
+Y:\Data\_Java Script\Samples\C905_Variables\C905_Variables\obj\Debug\C905_Variables.dll
+Y:\Data\_Java Script\Samples\C905_Variables\C905_Variables\obj\Debug\C905_Variables.pdb
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\bin\C905_Variables.dll
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\bin\C905_Variables.pdb
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\obj\Debug\C905_Variables.csprojResolveAssemblyReference.cache
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\obj\Debug\C905_Variables.dll
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\obj\Debug\C905_Variables.pdb
+Y:\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\bin\C905_Variables.dll.config
+Y:\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\bin\C905_Variables.dll
+Y:\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\bin\C905_Variables.pdb
+Y:\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\obj\Debug\C905_Variables.csprojResolveAssemblyReference.cache
+Y:\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\obj\Debug\C905_Variables.dll
+Y:\Data\__Learning\Java Script\MySamples\C905_Variables\C905_Variables\obj\Debug\C905_Variables.pdb

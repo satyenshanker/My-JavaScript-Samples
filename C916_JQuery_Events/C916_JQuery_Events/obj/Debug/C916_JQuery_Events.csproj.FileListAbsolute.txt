@@ -1,0 +1,12 @@
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\bin\C916_JQuery_Events.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\bin\C916_JQuery_Events.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\bin\C916_JQuery_Events.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\obj\Debug\C916_JQuery_Events.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\obj\Debug\C916_JQuery_Events.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\obj\Debug\C916_JQuery_Events.pdb
+Y:\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\bin\C916_JQuery_Events.dll.config
+Y:\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\bin\C916_JQuery_Events.dll
+Y:\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\bin\C916_JQuery_Events.pdb
+Y:\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\obj\Debug\C916_JQuery_Events.csprojResolveAssemblyReference.cache
+Y:\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\obj\Debug\C916_JQuery_Events.dll
+Y:\Data\__Learning\Java Script\MySamples\C916_JQuery_Events\C916_JQuery_Events\obj\Debug\C916_JQuery_Events.pdb

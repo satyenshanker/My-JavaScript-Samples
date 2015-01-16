@@ -1,0 +1,11 @@
+Y:\Data\_Java Script\Samples\C909_Looping\C909_Looping\bin\C909_Looping.dll
+Y:\Data\_Java Script\Samples\C909_Looping\C909_Looping\bin\C909_Looping.pdb
+Y:\Data\_Java Script\Samples\C909_Looping\C909_Looping\obj\Debug\ResolveAssemblyReference.cache
+Y:\Data\_Java Script\Samples\C909_Looping\C909_Looping\obj\Debug\C909_Looping.dll
+Y:\Data\_Java Script\Samples\C909_Looping\C909_Looping\obj\Debug\C909_Looping.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C909_Looping\C909_Looping\bin\C909_Looping.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C909_Looping\C909_Looping\bin\C909_Looping.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C909_Looping\C909_Looping\bin\C909_Looping.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C909_Looping\C909_Looping\obj\Debug\C909_Looping.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C909_Looping\C909_Looping\obj\Debug\C909_Looping.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C909_Looping\C909_Looping\obj\Debug\C909_Looping.pdb

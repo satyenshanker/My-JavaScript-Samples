@@ -1,0 +1,43 @@
+﻿<!DOCTYPE>
+<html>
+<head>
+    <title>10.Global Scope versus Function Scope</title>
+    <!-- Java script -->
+    <script type="text/javascript">
+
+        // Java script does not support block scope.
+        // IT only suppot function / global scope. 
+
+        // 1. Example of not supporting block scope
+        if (true) {
+            var myBlockVar = "Block var";
+        }
+
+        alert(myBlockVar);
+
+        // Global variable
+        var myGlobalVar = "Global var";
+
+        (function () {
+            alert(myGlobalVar);
+        }) ();
+
+        alert(myGlobalVar);
+
+
+        // Function variable
+        var myVar = "Global scope";
+        (function () {
+            var myVar = "Function scope";
+            alert(myVar);
+        })();
+
+        alert(myVar);
+        alert(window.myVar);
+
+    </script>
+</head>
+<body>
+    <h1>10.Global Scope versus Function Scope</h1>
+</body>
+</html>

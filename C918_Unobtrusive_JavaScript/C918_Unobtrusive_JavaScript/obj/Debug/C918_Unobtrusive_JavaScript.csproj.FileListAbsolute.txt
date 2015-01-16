@@ -1,0 +1,6 @@
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C918_Unobtrusive_JavaScript\C918_Unobtrusive_JavaScript\bin\C918_Unobtrusive_JavaScript.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C918_Unobtrusive_JavaScript\C918_Unobtrusive_JavaScript\bin\C918_Unobtrusive_JavaScript.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C918_Unobtrusive_JavaScript\C918_Unobtrusive_JavaScript\bin\C918_Unobtrusive_JavaScript.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C918_Unobtrusive_JavaScript\C918_Unobtrusive_JavaScript\obj\Debug\C918_Unobtrusive_JavaScript.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C918_Unobtrusive_JavaScript\C918_Unobtrusive_JavaScript\obj\Debug\C918_Unobtrusive_JavaScript.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C918_Unobtrusive_JavaScript\C918_Unobtrusive_JavaScript\obj\Debug\C918_Unobtrusive_JavaScript.pdb

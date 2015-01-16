@@ -1,0 +1,23 @@
+﻿#game {
+    width: 500px;
+    height:300px;
+    float:left;
+}
+
+#startover {
+    width: 100px;
+    height:25px;
+    text-align:center;
+    padding-top: 5px;
+    float:left;
+}
+
+.hoverOut {
+    color:red;
+    background-color:yellow;
+}
+
+.hoverIn {
+    color:yellow;
+    background-color:red;
+}

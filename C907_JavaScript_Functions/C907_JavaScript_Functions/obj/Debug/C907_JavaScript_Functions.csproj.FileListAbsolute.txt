@@ -1,0 +1,16 @@
+Y:\Data\_Java Script\Samples\C907_JavaScript_Functions\C907_JavaScript_Functions\bin\C907_JavaScript_Functions.dll
+Y:\Data\_Java Script\Samples\C907_JavaScript_Functions\C907_JavaScript_Functions\bin\C907_JavaScript_Functions.pdb
+Y:\Data\_Java Script\Samples\C907_JavaScript_Functions\C907_JavaScript_Functions\obj\Debug\ResolveAssemblyReference.cache
+Y:\Data\_Java Script\Samples\C907_JavaScript_Functions\C907_JavaScript_Functions\obj\Debug\C907_JavaScript_Functions.dll
+Y:\Data\_Java Script\Samples\C907_JavaScript_Functions\C907_JavaScript_Functions\obj\Debug\C907_JavaScript_Functions.pdb
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\bin\C907_JavaScript_Functions.dll
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\bin\C907_JavaScript_Functions.pdb
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\obj\Debug\C907_JavaScript_Functions.csprojResolveAssemblyReference.cache
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\obj\Debug\C907_JavaScript_Functions.dll
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\obj\Debug\C907_JavaScript_Functions.pdb
+Y:\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\bin\C907_JavaScript_Functions.dll.config
+Y:\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\bin\C907_JavaScript_Functions.dll
+Y:\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\bin\C907_JavaScript_Functions.pdb
+Y:\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\obj\Debug\C907_JavaScript_Functions.csprojResolveAssemblyReference.cache
+Y:\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\obj\Debug\C907_JavaScript_Functions.dll
+Y:\Data\__Learning\Java Script\MySamples\C907_JavaScript_Functions\C907_JavaScript_Functions\obj\Debug\C907_JavaScript_Functions.pdb

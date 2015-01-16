@@ -1,0 +1,62 @@
+﻿<!DOCTYPE>
+<html>
+<head>
+    <title>8.JavaScript Arrays</title>
+    <!-- Java script -->
+    <script type="text/javascript">
+
+        //Declare unlimited size array
+        var myArray1 = [];
+        myArray1[0] = "xxzcvz";
+        myArray1[1] = true;
+        myArray1[2] = "wqerq";
+        myArray1[3] = 2423;
+        myArray1[4] = new Date();
+
+        // Print the array from here
+        for (var i = 0; i < myArray1.length; i++) {
+            document.write(myArray1[i] + "<br/>");
+        }
+
+        //Declare by innitialize array 
+        //Note: can can have differen datatypes
+        var myArray2 = [1, "String value", new Date("September 22, 2004")];
+
+        // Function to print second array
+        function printSecondArray() {
+            for (var i = 0; i < myArray2.length; i++) {
+                document.write(myArray2[i] + "<br/>");
+            }
+        }
+
+        // Associative arrays
+        var assArray = [];
+        assArray["a"] = 1;
+        assArray["x"] = 2;
+        assArray["m"] = 3;
+        assArray["t"] = 4;
+
+        // Function to print second array
+        function printAssociativeArray() {
+            document.write(" Associative arrays <br/>");
+
+            document.write(assArray["a"] + "<br/> "
+                           + assArray["x"] + "<br/>"
+                           + assArray["m"] + "<br/>"
+                           + assArray["t"] + "<br/>");
+        }
+
+    </script>
+</head>
+<body>
+    <h1>8.JavaScript Arrays</h1>
+
+    <br />
+    Print second array
+    <input type="submit" value="Click me" onclick="printSecondArray()" />
+
+    <br />
+    Print associative array
+    <input type="submit" value="Click me" onclick="printAssociativeArray()" />
+</body>
+</html>

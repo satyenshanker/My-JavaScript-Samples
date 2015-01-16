@@ -1,0 +1,12 @@
+Y:\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\bin\C915_JQuery_Selectors.dll.config
+Y:\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\bin\C915_JQuery_Selectors.dll
+Y:\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\bin\C915_JQuery_Selectors.pdb
+Y:\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\obj\Debug\C915_JQuery_Selectors.csprojResolveAssemblyReference.cache
+Y:\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\obj\Debug\C915_JQuery_Selectors.dll
+Y:\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\obj\Debug\C915_JQuery_Selectors.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\bin\C915_JQuery_Selectors.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\bin\C915_JQuery_Selectors.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\bin\C915_JQuery_Selectors.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\obj\Debug\C915_JQuery_Selectors.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\obj\Debug\C915_JQuery_Selectors.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C915_JQuery_Selectors\C915_JQuery_Selectors\obj\Debug\C915_JQuery_Selectors.pdb

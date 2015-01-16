@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>15. jQuery Selectors</title>
+    <!-- Referece to minified (compresed) version of jQuery -->
+    <!-- This CDN is hosted by Microsoft -->
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.0.js"></script>
+
+    <!-- Reference to external Java script file -->
+    <script type="text/javascript" src="scripts/myScript.js"></script>
+
+    <!-- Reference to external style sheet file myStyleSheet.css -->
+    <link rel="stylesheet" type="text/css" href="Scripts/myStyleSheet.css" />
+</head>
+
+<body>
+    <h1 id="title">15. jQuery Selectors</h1>
+    <h2 id="title1">Tips and Ticks </h2>
+
+    <p id="first">First paragraph</p>
+
+    <p id="second"  name="mySecondPara">Second paragraph</p>
+
+    <p id="third">
+        <span class="chosen">Here are some values:</span>
+    </p>
+    
+    <ul>
+        <li class="chosen">One</li>
+        <li>Two</li>
+        <li>Three</li>
+        <li>Four</li>
+        <li>Five</li>
+        <li class="chosen">Six</li>
+    </ul>
+
+    <div id="myDiv">
+        Content will be added here on the fly <br />
+    </div>
+
+    <p>
+        <strong>Add style sheet on the fly using jQuery as follows to </strong>
+        <br />
+        ........ By ID: First paragraph
+        <input type="submit" value="Example 1" onclick="callExample1()" />
+        <br />
+        ........ By Element : All paragraph
+        <input type="submit" value="Example 2" onclick="callExample2()" />
+
+        <br />
+        ........ By Class : Chosen class
+        <input type="submit" value="Example 3" onclick="callExample3()" />
+        <br />
+        ........ By Multiple Selectors: ID and Chosen class
+        <input type="submit" value="Example 4" onclick="callExample4()" />
+        <br />
+        ........ By Contains: LI containting text Three
+        <input type="submit" value="Example 5" onclick="callExample5()" />
+        <br />
+        ........ Next, Previous: Next / Previous for LI containting text Three
+        <input type="submit" value="Example 6" onclick="callExample6()" />
+        <br />
+        ........ Parent/siblings, odd/even : Parent / sibling for LI containting text Three OR select odd / even element
+        <input type="submit" value="Example 7" onclick="callExample7()" />
+        <br />
+        ........ By attribute : Para whose name is = mySecondPara (not ID) and Para whose name is != mySecondPara
+        <input type="submit" value="Example 8" onclick="callExample8()" />
+        <br />
+        ........ Chaining/Filtering: elect all paragraphs who does not have name attribute
+        <input type="submit" value="Example 9" onclick="callExample9()" />
+
+        <br />
+        ........ Others: special type of selectors
+        <input type="submit" value="Example 10" onclick="callExample10()" />
+
+        <br />
+        ........ Add selecto on the fly: Add a page tag on the fly with id, class and CSS properties
+        <input type="submit" value="Example 11" onclick="callExample11()" />
+    </p>
+
+</body>
+</html>

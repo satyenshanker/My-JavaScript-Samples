@@ -1,0 +1,9 @@
+Y:\Data\_Java Script\Samples\C904_SampleUsingVS\C904_SampleUsingVS\bin\C904_SampleUsingVS.dll
+Y:\Data\_Java Script\Samples\C904_SampleUsingVS\C904_SampleUsingVS\bin\C904_SampleUsingVS.pdb
+Y:\Data\_Java Script\Samples\C904_SampleUsingVS\C904_SampleUsingVS\obj\Debug\ResolveAssemblyReference.cache
+Y:\Data\_Java Script\Samples\C904_SampleUsingVS\C904_SampleUsingVS\obj\Debug\C904_SampleUsingVS.dll
+Y:\Data\_Java Script\Samples\C904_SampleUsingVS\C904_SampleUsingVS\obj\Debug\C904_SampleUsingVS.pdb
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C904_SampleUsingVS\C904_SampleUsingVS\bin\C904_SampleUsingVS.dll
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C904_SampleUsingVS\C904_SampleUsingVS\bin\C904_SampleUsingVS.pdb
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C904_SampleUsingVS\C904_SampleUsingVS\obj\Debug\C904_SampleUsingVS.dll
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C904_SampleUsingVS\C904_SampleUsingVS\obj\Debug\C904_SampleUsingVS.pdb

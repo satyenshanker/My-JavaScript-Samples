@@ -1,0 +1,6 @@
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C919_Using_jQ_Retrieve_JSON_Via_AJAX\C919_Using_jQ_Retrieve_JSON_Via_AJAX\bin\C919_Using_jQ_Retrieve_JSON_Via_AJAX.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C919_Using_jQ_Retrieve_JSON_Via_AJAX\C919_Using_jQ_Retrieve_JSON_Via_AJAX\bin\C919_Using_jQ_Retrieve_JSON_Via_AJAX.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C919_Using_jQ_Retrieve_JSON_Via_AJAX\C919_Using_jQ_Retrieve_JSON_Via_AJAX\bin\C919_Using_jQ_Retrieve_JSON_Via_AJAX.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C919_Using_jQ_Retrieve_JSON_Via_AJAX\C919_Using_jQ_Retrieve_JSON_Via_AJAX\obj\Debug\C919_Using_jQ_Retrieve_JSON_Via_AJAX.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C919_Using_jQ_Retrieve_JSON_Via_AJAX\C919_Using_jQ_Retrieve_JSON_Via_AJAX\obj\Debug\C919_Using_jQ_Retrieve_JSON_Via_AJAX.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C919_Using_jQ_Retrieve_JSON_Via_AJAX\C919_Using_jQ_Retrieve_JSON_Via_AJAX\obj\Debug\C919_Using_jQ_Retrieve_JSON_Via_AJAX.pdb

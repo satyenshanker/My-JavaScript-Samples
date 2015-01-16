@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+    <title>20. Fundamentals of JavaScript Closures</title>
+    <!-- Referece to minified (compresed) version of jQuery -->
+    <!-- This CDN is hosted by Microsoft -->
+    <script type='text/javascript' src='http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.0.js'></script>
+
+    <!-- Reference to external Java script file -->
+    <script type='text/javascript' src='scripts/myScript.js'></script>
+
+    <!-- Reference to external style sheet file myStyleSheet.css -->
+    <link rel='stylesheet' type='text/css' href='Scripts/myStyleSheet.css' />
+</head>
+
+<body>
+    <h1 id='title'>20. Fundamentals of JavaScript Closures</h1>
+ 
+
+    <h2>Examples</h2>
+
+    <div id="Example1">
+        <h3>1. Traditiona nested function </h3>
+        ........ The private variables go out of scope once the function is executed
+        <p>
+            <a href="#" id="buildCat">Please build me a cat</a>
+        </p>
+        <br />
+    </div>
+
+    <div id="Example2">
+        <h3>2. Nested function using closure </h3>
+        ........ A Closure is created when we assign a function reference to a variable. <br />
+        ........ A snap shot of its outer environment is also attached to the variable at the time the closure is created.
+
+        <p>
+            <a href="#" id="buildCat1">Please build me a cat</a>
+        </p>
+        <br />
+    </div>
+
+    <div id="Example3">
+        <h3>3. Module pattern</h3>
+        ........ In this pattern we are using closure to implement the private behavior <br />
+        ........ and expose just the public interface. <br />
+        ........ In .NET we do this using private and public members.<br />
+
+        <p>
+            <a href="#" id="modulePattern">Module Pattern</a>
+        </p>
+
+        <br />
+    </div>
+
+    <div id="Example4">
+        <h3>4. Font size</h3>
+        ........ In this exampel we changing the font size on the fly <br />
+        ........ We use the closure technique to perform this<br />
+
+        <p>
+            <a href="#" id="fontSize12">Size 12</a> <br />
+            <a href="#" id="fontSize14">Size 14</a> <br />
+            <a href="#" id="fontSize16">Size 16</a> <br />
+        </p>
+
+        <br />
+    </div>
+
+</body>
+</html>

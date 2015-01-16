@@ -1,0 +1,6 @@
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X00_Vs2013_Empty_Project\X00_Vs2013_Empty_Project\bin\X00_Vs2013_Empty_Project.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X00_Vs2013_Empty_Project\X00_Vs2013_Empty_Project\bin\X00_Vs2013_Empty_Project.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X00_Vs2013_Empty_Project\X00_Vs2013_Empty_Project\bin\X00_Vs2013_Empty_Project.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X00_Vs2013_Empty_Project\X00_Vs2013_Empty_Project\obj\Debug\X00_Vs2013_Empty_Project.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X00_Vs2013_Empty_Project\X00_Vs2013_Empty_Project\obj\Debug\X00_Vs2013_Empty_Project.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X00_Vs2013_Empty_Project\X00_Vs2013_Empty_Project\obj\Debug\X00_Vs2013_Empty_Project.pdb

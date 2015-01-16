@@ -1,0 +1,9 @@
+Y:\Data\_Java Script\Samples\C906_Conditional_Logic\C906_Conditional_Logic\bin\C906_Conditional_Logic.dll
+Y:\Data\_Java Script\Samples\C906_Conditional_Logic\C906_Conditional_Logic\bin\C906_Conditional_Logic.pdb
+Y:\Data\_Java Script\Samples\C906_Conditional_Logic\C906_Conditional_Logic\obj\Debug\ResolveAssemblyReference.cache
+Y:\Data\_Java Script\Samples\C906_Conditional_Logic\C906_Conditional_Logic\obj\Debug\C906_Conditional_Logic.dll
+Y:\Data\_Java Script\Samples\C906_Conditional_Logic\C906_Conditional_Logic\obj\Debug\C906_Conditional_Logic.pdb
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C906_Conditional_Logic\C906_Conditional_Logic\bin\C906_Conditional_Logic.dll
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C906_Conditional_Logic\C906_Conditional_Logic\bin\C906_Conditional_Logic.pdb
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C906_Conditional_Logic\C906_Conditional_Logic\obj\Debug\C906_Conditional_Logic.dll
+\\SAGETEST\E on Sagetest\Data\__Learning\Java Script\MySamples\C906_Conditional_Logic\C906_Conditional_Logic\obj\Debug\C906_Conditional_Logic.pdb

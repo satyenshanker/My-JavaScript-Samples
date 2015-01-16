@@ -1,0 +1,16 @@
+Y:\Data\_Java Script\Samples\C910_GlobalScope\C910_GlobalScope\bin\C910_GlobalScope.dll
+Y:\Data\_Java Script\Samples\C910_GlobalScope\C910_GlobalScope\bin\C910_GlobalScope.pdb
+Y:\Data\_Java Script\Samples\C910_GlobalScope\C910_GlobalScope\obj\Debug\ResolveAssemblyReference.cache
+Y:\Data\_Java Script\Samples\C910_GlobalScope\C910_GlobalScope\obj\Debug\C910_GlobalScope.dll
+Y:\Data\_Java Script\Samples\C910_GlobalScope\C910_GlobalScope\obj\Debug\C910_GlobalScope.pdb
+\\SAGETEST\E on Sagetest\Data\_Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\bin\C910_GlobalScope.dll
+\\SAGETEST\E on Sagetest\Data\_Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\bin\C910_GlobalScope.pdb
+\\SAGETEST\E on Sagetest\Data\_Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\obj\Debug\ResolveAssemblyReference.cache
+\\SAGETEST\E on Sagetest\Data\_Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\obj\Debug\C910_GlobalScope.dll
+\\SAGETEST\E on Sagetest\Data\_Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\obj\Debug\C910_GlobalScope.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\bin\C910_GlobalScope.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\bin\C910_GlobalScope.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\bin\C910_GlobalScope.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\obj\Debug\C910_GlobalScope.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\obj\Debug\C910_GlobalScope.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C910_GlobalScope\C910_GlobalScope\obj\Debug\C910_GlobalScope.pdb

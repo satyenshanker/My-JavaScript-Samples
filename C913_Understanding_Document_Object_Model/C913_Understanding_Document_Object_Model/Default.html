@@ -1,0 +1,51 @@
+<!DOCTYPE>
+<html>
+<head>
+    <title>13.Understanding the Document Object Model</title>
+    <!-- Java script -->
+    <script type="text/javascript" src="myScript.js"></script>
+</head>
+<body>
+    <h1 id="title">13.Understanding the Document Object Model</h1>
+    <div id = "main">
+        <p id = "firstPara"> This is my first paragraph </p>
+        <p id = "secondPara"> 
+            <strong>This is my second paragraph</strong> 
+         </p>
+        <p id="thirdPara">Third paragraph</p>
+    </div>
+    <div id = "form">
+        <br />
+        The click method to all the buttons in this page are asigned on the fly in the script
+        <br />
+        <br />
+        Simple click method attached
+        <input type="submit" id = "clickMe" value="Click Me" /> 
+        <br />
+        Accessing the innerHTML 
+        <input type="submit" id = "Submit1" value="Click Me" /> 
+        <br />
+        See the text at the bottom change on the fly
+        <input type="submit" id="changeText" value="Click Me" /> 
+        <br />        
+        Get all elements of a particular type
+        <input type="submit" id="getAllElementsByTagName" value="Click Me" />
+        <br />
+        Navigat to parents / child elements
+        <input type="submit" id="navigateUpdown" value="Click Me" />
+
+        <br />
+        <a href="http://www.google.com" id="myAnchor">Modify the anchor tag for search</a>
+        <input type="submit" id="modifyAnchorTag" value="Click Me" />
+        <br />
+
+        <br />***********************************************<br />
+
+        <p id="returnPara"> This text is changes by the script</p>
+
+    </div>
+    <br />
+    <br />
+
+</body>
+</html>

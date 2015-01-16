@@ -1,0 +1,43 @@
+﻿<!DOCTYPE>
+<html>
+<head>
+    <title>9.Looping Statements in JavaScript</title>
+    <!-- Java script -->
+    <script type="text/javascript">
+
+        var myArray = [1,2,3,4,5,6,7,8,9];
+
+        // 1. while loop
+        document.write("While loop <br/>");
+        var i = 0;
+        while (i < myArray.length) {
+            document.write(myArray[i] + "    ");
+            i++;
+        }
+
+        // 2. Do loop
+        document.write("<br/> Do while loop <br/>");
+        i = 0;
+        do {
+            document.write(myArray[i] + "    ");
+            i++;
+        } while (i < myArray.length);
+
+        // 3. For loop
+        document.write("<br/> For loop <br/>");
+        for (var i = 0; i < myArray.length; i++) {
+            document.write(myArray[i] + "    ");
+        }
+
+        // 4. For ... In loop  identical to foreach loop
+        document.write("<br/> For..In loop <br/>");
+        for (i in myArray) {
+            document.write(myArray[i] + "    ");
+        }
+
+    </script>
+</head>
+<body>
+    <h1>9.Looping Statements in JavaScript</h1>
+</body>
+</html>

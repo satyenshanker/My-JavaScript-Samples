@@ -1,0 +1,6 @@
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X01_Css_Sample\X01_Css_Sample\bin\X01_Css_Sample.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X01_Css_Sample\X01_Css_Sample\bin\X01_Css_Sample.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X01_Css_Sample\X01_Css_Sample\bin\X01_Css_Sample.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X01_Css_Sample\X01_Css_Sample\obj\Debug\X01_Css_Sample.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X01_Css_Sample\X01_Css_Sample\obj\Debug\X01_Css_Sample.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\X01_Css_Sample\X01_Css_Sample\obj\Debug\X01_Css_Sample.pdb

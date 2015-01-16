@@ -1,0 +1,6 @@
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C917_Installing_and_Utilizing_JQuery\C917_Installing_and_Utilizing_JQuery\bin\C917_Installing_and_Utilizing_JQuery.dll.config
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C917_Installing_and_Utilizing_JQuery\C917_Installing_and_Utilizing_JQuery\bin\C917_Installing_and_Utilizing_JQuery.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C917_Installing_and_Utilizing_JQuery\C917_Installing_and_Utilizing_JQuery\bin\C917_Installing_and_Utilizing_JQuery.pdb
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C917_Installing_and_Utilizing_JQuery\C917_Installing_and_Utilizing_JQuery\obj\Debug\C917_Installing_and_Utilizing_JQuery.csprojResolveAssemblyReference.cache
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C917_Installing_and_Utilizing_JQuery\C917_Installing_and_Utilizing_JQuery\obj\Debug\C917_Installing_and_Utilizing_JQuery.dll
+\\sagetest\E on Sagetest\Data\__Learning\Java Script\MySamples\C917_Installing_and_Utilizing_JQuery\C917_Installing_and_Utilizing_JQuery\obj\Debug\C917_Installing_and_Utilizing_JQuery.pdb
